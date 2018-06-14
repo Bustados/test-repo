@@ -138,6 +138,12 @@ class Client:
                     tsocket.connect((dest_ip, dest_port))
                     print("Sent Close Command")
                     tsocket.send(bytes("close", 'utf8'))
+
+
+
+
+
+                    oxfisfmhimxfimixhm
                     tsocket.close()
 
                 else:
