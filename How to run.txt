@@ -1,0 +1,11 @@
+To start up the client:
+1.Go into the command prompt (CMD)
+2.change directories until you are in the folder
+3.type "python netclient.py"
+4.It will give you different modes and the syntax to accomplish each mode.
+
+To start up the server: 
+1.Go into the command prompt (CMD)
+2.change directories until you are in the folder
+3.type "python netserver.py <IP>" Where IP is the IP you want to listen on.
+Server can update, but cannot be used to get IP to transfer files.
